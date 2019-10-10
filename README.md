@@ -60,6 +60,8 @@ var safeQuery = (() => {
 With `DeepQuery.js` it works significantly easier:
 
 ```javascript
+import "@imatyushkin/deep-query"
+
 var query = obj.__("a.b.2.0") // No crash, just null will be returned 🙂
 var anotherQuery = obj.__("a.b.1.0") // 4
 ```
