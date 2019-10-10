@@ -1,6 +1,6 @@
 {
   "name": "@imatyushkin/deep-query",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Easy data chains for JavaScript",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
