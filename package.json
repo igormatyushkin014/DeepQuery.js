@@ -1,0 +1,26 @@
+{
+  "name": "deep-query",
+  "version": "0.1.0",
+  "description": "Easy data chains for JavaScript",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igormatyushkin014/DeepQuery.js.git"
+  },
+  "author": "Igor Matyushkin",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/igormatyushkin014/DeepQuery.js/issues"
+  },
+  "homepage": "https://github.com/igormatyushkin014/DeepQuery.js#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.12",
+    "typescript": "^3.6.4"
+  },
+  "dependencies": {}
+}
