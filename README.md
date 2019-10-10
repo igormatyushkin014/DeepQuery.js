@@ -14,11 +14,11 @@
 
 Type in Terminal:
 
-`npm install --save deep-query`
+`npm install --save @imatyushkin/deep-query`
 
 or, if you prefer `yarn` over `npm`, type:
 
-`yarn add deep-query`
+`yarn add @imatyushkin/deep-query`
 
 ## Usage
 

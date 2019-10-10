@@ -1,5 +1,5 @@
 {
-  "name": "deep-query",
+  "name": "@imatyushkin/deep-query",
   "version": "0.1.0",
   "description": "Easy data chains for JavaScript",
   "main": "dist/index.js",
